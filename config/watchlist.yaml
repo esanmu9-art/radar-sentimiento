@@ -1,0 +1,15 @@
+# Lista de tickers a vigilar. Edita este archivo para cambiar tu radar.
+tickers:
+  - AAPL
+  - NVDA
+  - META
+  - TSLA
+  - AMZN
+
+# Idiomas preferidos para búsquedas de noticias (códigos ISO)
+languages:
+  - es
+  - en
+
+# Carpeta donde se escriben las notas diarias (compatible con Obsidian)
+output_dir: output
